@@ -1,0 +1,9 @@
+Package: daniel.allowapplebluetoothdevices
+Name: AllowAppleBluetoothDevices
+Author: daniel
+Description: extend the iPhones Bluetooth functionality by allowing the device to pair with unsupported apple accessories (the trackpad mainly)
+Depends: mobilesubstrate
+Maintainer: daniel
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
