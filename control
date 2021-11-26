@@ -1,4 +1,4 @@
-Package: daniel.allowapplebluetoothdevices
+Package: daniel.aabtd
 Name: AllowAppleBluetoothDevices
 Author: daniel
 Description: extend the iPhones Bluetooth functionality by allowing the device to pair with unsupported apple accessories (the trackpad mainly)
